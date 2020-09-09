@@ -95,7 +95,7 @@ header{
   padding: 15px;
 }
 body{
-   background: #7FFFD4 ;/*url("./images/prize.jpeg"); */
+  background: #7FFFD4 /*url("./images/prize.jpeg")*/;
 }
 nav{
   text-align: center;
@@ -141,7 +141,6 @@ a:active{
   border:3px solid #ffffff;
 }
 
-
 .testimony{
   background-color: #c0c0c0;
   display: block;
@@ -152,8 +151,8 @@ a:active{
 
 }
 
- 
-/*  > footer {
+
+footer {
     border-top: 1px solid #ccc;
     padding-top: 0.5em;
     font-size: 0.8em; 
@@ -161,7 +160,8 @@ a:active{
   font-size: 0.75rem;
   flex: 0 0 90%;
     
-    .module {
+
+  .module {
   border: 1px solid #ccc;
   background: #eee;
   padding: 20px;
@@ -169,4 +169,4 @@ a:active{
   position: relative;
   .module-control {
     margin: -20px -20px 10px -20px;
-  }*/
+  }
