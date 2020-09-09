@@ -95,7 +95,7 @@ header{
   padding: 15px;
 }
 body{
-  background: #7FFFD4 url("./images/prize.jpeg");
+   background: #7FFFD4 /*url("./images/prize.jpeg"); */
 }
 nav{
   text-align: center;
